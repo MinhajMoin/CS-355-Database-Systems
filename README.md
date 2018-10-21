@@ -1,2 +1,3 @@
 # CS-355 Database Systems
 This repository contains all my submitted Assignments and Lab Tasks for the course, CS-355 Database Systems taken in Fall 2017 at Habib University.
+The Final Project is an inventory management system for a Computer Parts Shop. It uses C# FrontEnd and SQL Server as a Database. From the software, A record of Sale and Purchase of Items, Requisition of Items from the Suppliers. The software also shows all history of sale, purchase of items and company orders. A list of Customers and shop employees can also be maintained from the software. A password system keeps data secure and ensures authorized access.
